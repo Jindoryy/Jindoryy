@@ -17,7 +17,6 @@
   
 <h3> :clap: Algorithm Solve </h3>
   
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsrb7577)](https://solved.ac/wlsrb7577)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsrb7577)](https://solved.ac/wlsrb7577)<br/>
 
 </div>
