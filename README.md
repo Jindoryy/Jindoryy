@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
-
+<a href="https://velog.io/@tyjk8997" > <h3>:books: Study Blog </h3> </a>
+  
 :clap: Algorithm Solve
   
 [![Solved.ac
