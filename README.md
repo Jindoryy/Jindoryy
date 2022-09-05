@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=I'm%20Leejinkyu&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Welcome&fontSize=60)
 
 :raised_hands: Introduction
 
