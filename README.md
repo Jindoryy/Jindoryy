@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
 <h3>:books: Study Blog </h3>
-<a href="https://velog.io/@tyjk8997" > 블로그 </a>
+<a href="https://velog.io/@tyjk8997" > 공부 기록 </a>
   
 <h3> :clap: Algorithm Solve </h3>
   
